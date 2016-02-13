@@ -1,0 +1,14 @@
+layout_spectrum: 0.1090389
+color:
+  saturation: 0.126021
+  lightness: 0.3077901
+  brandStrength: 0.6440875
+  rhythmicContrast: 0.3650004
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.31362
+name: TheHarrisFamily
