@@ -1,14 +1,26 @@
-layout_spectrum: 0.1090389
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.31362
 color:
-  saturation: 0.126021
-  lightness: 0.3077901
+  saturation: 0.6792114
   brandStrength: 0.6440875
-  rhythmicContrast: 0.3650004
+  lightness: 0.5334528
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-typography_spectrum: 0.31362
+  rhythmicContrast: 0.6039426
+layout_spectrum: 0.1090389
 name: TheHarrisFamily
