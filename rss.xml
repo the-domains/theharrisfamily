@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheHarrisFamily]]></title>
         <description><![CDATA[TheHarrisFamily]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theharrisfamily/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 16:58:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 01:20:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theharrisfamily/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beauty and the beast!]]></title>
+            <description><![CDATA[<article><h1>Beauty and the beast!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45070dc9f72397228be8c866ad062ae154628f9d.png"></article>]]></description>
+            <link>https://thegrid.ai/theharrisfamily/beauty-and-the-beast/index.html</link>
+            <guid isPermaLink="false">087a3064-38dd-4379-912d-03b50d33523c</guid>
+            <pubDate>Sun, 14 Feb 2016 01:20:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beautiful Faith and our Valentine Dinner]]></title>
             <description><![CDATA[<article><h1>Beautiful Faith and our Valentine Dinner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a185a0d917a68d59ffa09d689a00bf32fcb9b96.png"></article>]]></description>
-            <link>undefinedbeautiful-faith-and-our-valentine-dinner/index.html</link>
+            <link>https://thegrid.ai/theharrisfamily/beautiful-faith-and-our-valentine-dinner/index.html</link>
             <guid isPermaLink="false">3c7248eb-8c65-4808-834c-5c2504f329b4</guid>
             <pubDate>Sat, 13 Feb 2016 16:58:22 GMT</pubDate>
         </item>
